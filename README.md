@@ -8,7 +8,6 @@ Password programs want to avoid common words. Editors want to make sure these wo
 It is also nice to have a translation dictionary, for example English-Chinese. This is not going to translate a document
 well, but can convert critical terms.
 
-
 ## List of references
 
 Contributor         | Pull request                          | Source
