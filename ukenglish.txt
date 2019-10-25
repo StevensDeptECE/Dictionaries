@@ -3382,7 +3382,7 @@ applicator
 applicators
 applied
 applies
-appliquƒ
+appliqu?
 appliquƒd
 appliquƒing
 appliquƒs
@@ -4420,7 +4420,7 @@ attach
 attachable
 attached
 attaches
-attachƒ
+attach?
 attaching
 attachment
 attachments
@@ -7324,7 +7324,7 @@ blarney
 blarneyed
 blarneying
 blarneys
-blasƒ
+blas?
 blaspheme
 blasphemed
 blasphemer
@@ -10132,7 +10132,7 @@ canalising
 canals
 canape
 canapes
-canapƒ
+canap?
 canapƒs
 canard
 canards
@@ -12870,7 +12870,7 @@ clew
 clews
 cliche
 cliches
-clichƒ
+clich?
 clichƒs
 click
 clicked
@@ -12989,7 +12989,7 @@ clogged
 clogging
 cloggy
 clogs
-cloisonnƒ
+cloisonn?
 cloister
 cloistered
 cloistering
@@ -13968,7 +13968,7 @@ communion
 communions
 communique
 communiques
-communiquƒ
+communiqu?
 communiquƒs
 communis
 communisation
@@ -14971,7 +14971,7 @@ consolidators
 consoling
 consols
 consomme
-consommƒ
+consomm?
 consommƒs
 consonance
 consonant
@@ -20024,9 +20024,9 @@ dextrose
 dextrous
 dextrously
 dextrousness
-dƒclassƒ
+dƒclass?
 dƒcolletage
-dƒcolletƒ
+dƒcollet?
 dƒtente
 dƒtentes
 dfc
@@ -27431,7 +27431,7 @@ fiance
 fiancee
 fiancees
 fiances
-fiancƒ
+fianc?
 fiancƒs
 fiasco
 fiascos
@@ -32646,7 +32646,7 @@ habituation
 habitude
 habitudes
 habitue
-habituƒ
+habitu?
 habituƒs
 hable
 hables
@@ -43044,7 +43044,7 @@ mackinaws
 mackintosh
 mackintoshes
 macmillan
-macramƒ
+macram?
 macro
 macrobiotic
 macrobiotics
@@ -43649,7 +43649,7 @@ manorbier
 manorial
 manors
 manpower
-manquƒ
+manqu?
 mans
 mansard
 mansards
@@ -46277,7 +46277,7 @@ moiled
 moiling
 moils
 moines
-moirƒ
+moir?
 moist
 moisten
 moistened
@@ -47522,7 +47522,7 @@ nairobi
 naive
 naively
 naives
-naivetƒ
+naivet?
 naivety
 na’f
 naked
@@ -50330,7 +50330,7 @@ outreach
 outreached
 outreaches
 outreaching
-outrƒ
+outr?
 outrider
 outriders
 outrigger
@@ -51936,7 +51936,7 @@ passerine
 passerines
 passers
 passes
-passƒ
+pass?
 passim
 passing
 passion
@@ -56747,7 +56747,7 @@ protester
 protesters
 protesting
 protests
-protƒgƒ
+protƒg?
 protƒgƒs
 protheses
 prothesis
@@ -58983,7 +58983,7 @@ recheck
 rechecked
 rechecking
 rechecks
-recherchƒ
+recherch?
 recht
 recidivism
 recidivist
@@ -61927,7 +61927,7 @@ risks
 risky
 risotto
 risottos
-risquƒ
+risqu?
 rissole
 rissoles
 rita
@@ -62326,7 +62326,7 @@ rotundity
 rouble
 roubles
 rouen
-rouƒ
+rou?
 rouƒs
 rouge
 rouged
@@ -63364,7 +63364,7 @@ sausage
 sausages
 sauterne
 sauternes
-sautƒ
+saut?
 sautƒed
 sautƒing
 sautƒs
@@ -67362,7 +67362,7 @@ societal
 societas
 societies
 society
-sociƒtƒ
+sociƒt?
 sociologic
 sociological
 sociologically
@@ -67423,7 +67423,7 @@ soggiest
 sogginess
 soggy
 soho
-soignƒ
+soign?
 soignƒe
 soil
 soiled
@@ -67754,7 +67754,7 @@ sot
 sots
 soubrette
 soubrettes
-soufflƒ
+souffl?
 soufflƒs
 sough
 soughed
@@ -74148,7 +74148,7 @@ touchdown
 touchdowns
 touched
 touches
-touchƒ
+touch?
 touchier
 touchiest
 touchiness
@@ -82092,7 +82092,3 @@ zygotes
 zygotic
 zymology
 zymurgy
-ƒclat
-ƒlan
-ƒmigrƒs
-ƒpoque
