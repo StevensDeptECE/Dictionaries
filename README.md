@@ -10,6 +10,7 @@ Needed:
   simple chinese word list for recognizing legal words in texts
   English words only, not numbers and other tokens (just subset the englishtokens.txt)
   
+  Code to automatically read and strip jmdict and ecdict to create simple entries without pronunciation
 It is also nice to have a translation dictionary, for example Chinese-English. This is not going to translate a document
 well, but can convert critical terms. More important, we need a dictionary with legal sequences of Chinese words for purposes of data compression.
 The most desired dictionaries for CJK would be simple format: just word, some delimiter like tab, and corresponding English word. I have not found any dictionaries like that.
@@ -27,3 +28,4 @@ Dov Kruger          german.txt       wordlist      1.9M                 Marvin J
 Dov Kruger          hebrew.txt       wordlist      23k                  Yoav                https://yeda.cs.technion.ac.il/resources_lexicons_stopwords.html
 Dov Kruger          names/germannames.txt list                                              edited from Wikipedia, should  be split into names and surnames
 Dov Kruger          names/                                                                  https://github.com/davidsbatista/lexicons
+Dov Kruger          jp.dic                         190k                                     http://www.edrdg.org/jmdict/edict_doc.html#IREF01
